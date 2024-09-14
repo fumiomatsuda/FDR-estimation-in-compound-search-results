@@ -1,0 +1,7 @@
+>compound MSBNK-Univ_Connecticut-CO000387_QEVHRUUCFGRFIF
+>ionization [M+H]+
+>parentmass 609.28132
+>ms2
+415.224396 17.0
+213.078896 41.0
+609.271500 999.0

@@ -1,0 +1,10 @@
+>compound MSBNK-MPI_for_Chemical_Ecology-CE000280_COLNVLDHVKWLRT
+>ionization [M+H]+
+>parentmass 166.08626
+>ms2
+64.039230 20.0
+47.017280 8.0
+47.012741 999.0
+44.049392 8.0
+36.044311 20.0
+166.086441 69.0

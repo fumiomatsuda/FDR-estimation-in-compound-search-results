@@ -1,0 +1,6 @@
+>compound MSBNK-RIKEN-PR301766_JVHNBFFHWQQPLL
+>ionization [M+H]+
+>parentmass 401.2070985
+>ms2
+401.151120 5.0
+401.264920 999

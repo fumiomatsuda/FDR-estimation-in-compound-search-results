@@ -1,0 +1,8 @@
+>compound MSBNK-IPB_Halle-PN000073_
+>ionization [M+H]+
+>parentmass 519.114
+>ms2
+271.060200 999.0
+272.062800 130.0
+519.115700 329.0
+520.118200 109.0

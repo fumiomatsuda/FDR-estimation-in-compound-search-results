@@ -1,0 +1,6 @@
+>compound MSBNK-RIKEN-PR300267_DAXYUDFNWXHGBE
+>ionization [M+H]+
+>parentmass 385.2121838
+>ms2
+385.156620 6.0
+385.267910 999

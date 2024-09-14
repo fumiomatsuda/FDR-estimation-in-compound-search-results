@@ -1,0 +1,7 @@
+>compound MSBNK-BGC_Munich-RP018501_RETSEGNZNUBJRB
+>ionization [M+H]+
+>parentmass 197.0709
+>ms2
+168.068100 3.0
+169.075400 8.0
+197.070700 999.0

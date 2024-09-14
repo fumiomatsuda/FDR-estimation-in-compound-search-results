@@ -1,0 +1,7 @@
+>compound MSBNK-Univ_Connecticut-CO000201_OVBPIULPVIDEAO
+>ionization [M-H]-
+>parentmass 442.1487172
+>ms2
+295.093897 999.0
+313.105297 66.0
+442.147697 635.0

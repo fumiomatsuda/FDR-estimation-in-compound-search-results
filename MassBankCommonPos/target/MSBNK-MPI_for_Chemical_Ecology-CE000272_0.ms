@@ -1,0 +1,8 @@
+>compound MSBNK-MPI_for_Chemical_Ecology-CE000272_ODKSFYDXXFIFQN
+>ionization [M+H]+
+>parentmass 175.11896
+>ms2
+116.070541 633.0
+130.097488 350.0
+157.108322 785.0
+158.092346 999.0
